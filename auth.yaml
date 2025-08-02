@@ -1,0 +1,10 @@
+credentials:
+  usernames:
+    alice:
+      email: alice@example.com
+      name: Alice
+      password: "YOURHASHEDPASSWORD"
+cookie:
+  expiry_days: 30
+  key: some_signature_key
+  name: studymate-cookie

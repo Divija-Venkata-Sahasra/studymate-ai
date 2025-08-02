@@ -1,0 +1,6 @@
+app.py
+/visuals
+  └─ css.py        # custom CSS
+  └─ animations.py # reusable balloon/spinner helpers
+/analytics
+  └─ tracker.py    # session tracking, Google Analytics injector
